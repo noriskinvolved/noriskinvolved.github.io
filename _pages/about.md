@@ -2,23 +2,18 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Rishav. I am currently employed at DFKI, Kaiserslautern as a research engineer. I am currently designing precision farming algorithms for agricultural robots.
+I am a first year CS Masters student at the University of California, San Diego, advised by Prof. <a href="https://xiaolonw.github.io/"> Xiaolong Wang </a>. I am interested in deep learning, with application in reinforcement learning and computer vision.
 
-I graduated from BITS Pilani, India with an undergraduate degree in Computer Science in 2020.
-
-I completed my bachelor thesis at DFKI under [Prof. Dr. Didier Stricker](https://av.dfki.de/members/stricker/). I worked on Deep Learning for Scene Flow Estimation using monocular camera & sparse LiDAR.
+I graduated from <a href="https://www.iitr.ac.in/">Indian Institute of Technology, Roorkee</a> in 2020, with major in Electrical Engineering. During Fall 2019 I spent a semester abroad at the University of Maryland, College Park  as a research intern with Prof. <a href="https://www.cs.umd.edu/~abhinav/">Abhinav Shrivastava </a>.
